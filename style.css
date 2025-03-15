@@ -1,0 +1,39 @@
+
+        /* Basic styling for the page */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        h1{
+            color: goldenrod;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 60px;
+        }
+        
+        /* Styling for the stopwatch display */
+        .stopwatch { 
+            font-size: 2em;
+            margin: 20px;
+            font-size: 50px;
+        }
+        /* Styling for buttons */
+        button {
+            background-color: honeydew;
+            color: burlywood;
+            font-size: 1em;
+            font-weight: bolder;
+            margin: 5px;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 35px;
+            ;
+        }
+        /* Styling for the list of lap times */
+        .laps {
+            margin-top: 20px;
+            list-style: none;
+            padding: 0;
+        }
+    
